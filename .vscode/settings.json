@@ -1,0 +1,16 @@
+{
+  "go.alternateTools": {
+    "gopls": "gopls"
+
+  },
+  "go.gopath": "/home/cyy/go",
+  "go.goroot": "/home/cyy/.g/go",
+  "C_Cpp.default.defines": [
+    "__TARGET_ARCH_x86"
+  ],
+  "editor.indentSize": "tabSize",
+  // 启用vimrc文件
+  "vim.vimrc.enable": true,
+  // vimrc文件
+  "vim.vimrc.path": "$HOME/.vimrc"
+}
